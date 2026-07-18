@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/130899907147216200719_BG14a_1280.jpg"  ]
+[preload  storage="./data/bgimage/130900223843516404230_BG27a_1280.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/ティラノビルダー立ち絵サイズ-4.png"  ]
+[preload  storage="./data/bgimage/127764512779316326375_BG39a.jpg"  ]
+[return]
